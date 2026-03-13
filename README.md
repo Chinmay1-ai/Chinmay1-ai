@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on Java Full Stack projects and improving my backend development skills.<br><brlooking to collaborate on Java, Spring Boot, and Full Stack development projects.<br><br> I’m looking for help with advanced Spring Boot, Microservices, and system design.<br><br>currently learning Hibernate, Spring Boot, and Java 8 features.<br><br>Ask me about Core Java, JDBC, SQL, Collections, Multithreading, and Hibernate.<br><br> Fun fact: I enjoy solving Java coding problems and building real-world backend systems.
+currently working on Java Full Stack projects and improving my backend development skills.<br><br>looking to collaborate on Java, Spring Boot, and Full Stack development projects.<br><br> I’m looking for help with advanced Spring Boot, Microservices, and system design.<br><br>currently learning Hibernate, Spring Boot, and Java 8 features.<br><br>Ask me about Core Java, JDBC, SQL, Collections, Multithreading, and Hibernate.<br><br> Fun fact: I enjoy solving Java coding problems and building real-world backend systems.
 
 
 ## 🌐 Socials:
