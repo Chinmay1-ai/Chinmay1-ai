@@ -1,7 +1,6 @@
 # 💫 About Me:
 Recent graduate in Computer Science & Engineering with a strong passion for Java development. Eager to apply skills and knowledge in a real-world setting and contribute to innovative projects. Looking for opportunities to learn and grow as a Java developer.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_chinmaypawar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chinmay-pawar-999a86313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawarchinmay92@gmail.com) 
 
@@ -17,5 +16,3 @@ Recent graduate in Computer Science & Engineering with a strong passion for Java
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chinmay1-ai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
